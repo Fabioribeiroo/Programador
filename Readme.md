@@ -6,7 +6,8 @@
 
 # Preview:
 
-![](C:\Users\fabio\OneDrive\Área de Trabalho\imagem.gif)
+
+![imagem](https://user-images.githubusercontent.com/101753554/173209809-44529ef1-23e5-4014-9f64-9da59a43013f.gif)
 
   
 
